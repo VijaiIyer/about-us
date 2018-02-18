@@ -1,0 +1,13 @@
+.form {
+    text-align: center;
+  }
+  
+  #form-search { 
+    width: 450px;
+    line-height: 42px;
+    padding: 40px 30px;
+  }
+  .form #form-search {
+    padding: 0 8px;
+  }
+  
